@@ -4,5 +4,7 @@ public class C01 {
         System.out.println("Hello Github");
 
         System.out.println("CMD cok kullanisli :)");
+
+        System.out.println("Bugunun sonunu gorebilecek miyiz");
     }
 }
